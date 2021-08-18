@@ -1,5 +1,9 @@
 # Catalogo-de-Tienda
 
-Para realizar el ingreso all catalogo de productos, debe ingresar:
-Usuario: root
-Contraseña: 12345
+⚠️ IMPORTANTE❗❗
+<br><br>
+Información necesaria para ingresar:
+<br>
+👤 Usuario: root
+<br>
+🔑 Contraseña: 12345
