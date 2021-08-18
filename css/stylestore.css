@@ -126,7 +126,7 @@ img{
 /*second level*/
 
 .cuerporec li li{
-    background: #57438ff6;
+    background: var(--primary-color);
     max-height: 0;
     overflow: hidden;
     transition: all;
@@ -152,7 +152,7 @@ img{
     bottom: 100%;
     width: 100%;
     text-align: center;
-    background-color: var(--primary-color);
+    background-color: rgba(84, 82, 201, 0.897);
     color: white;
 }
  
