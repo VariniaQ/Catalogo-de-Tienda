@@ -2,7 +2,7 @@
 <br>
 https://variniaq.github.io/Catalogo-de-Tienda/
 <br><br>
-⚠️ IMPORTANTE❗❗
+⚠️ IMPORTANTE
 <br><br>
 Información necesaria para ingresar:
 <br>
